@@ -10,7 +10,7 @@ def home():
     return f"""
     <html>
       <body style="font-family: sans-serif; text-align: center; padding: 60px; background: #0f172a; color: #f8fafc;">
-        <h1 style="font-size: 2.5rem; color: #38bdf8;">🚀 It works.</h1>
+        <h1 style="font-size: 2.5rem; color: #22c55e;">✅ Version 2 is live.</h1>
         <p style="font-size: 1.2rem; color: #94a3b8;">Your app is running inside a container.</p>
         <p style="margin-top: 40px; background: #1e293b; padding: 16px; border-radius: 8px; display: inline-block;">
           <strong style="color: #f472b6;">Hostname:</strong>
